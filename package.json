@@ -1,9 +1,9 @@
 {
-  "name": "@thtufter/github-pkg-demo",
+  "name": "@thetufter/github-pkg-demo",
   "repository": {
-    "url": "git://github.com/thtufter/github-pkg-demo.git"
+    "url": "git://github.com/thetufter/github-pkg-demo.git"
   },
-  
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
